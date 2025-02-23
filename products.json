@@ -1,0 +1,16 @@
+{
+    "6f100170-5d76-4ca7-8f8a-39cb6f434044":{
+        "id":"6f100170-5d76-4ca7-8f8a-39cb6f434044",
+        "name":"Ripped Jeans",
+        "price":1500,
+        "quantity":1,
+        "image":"image_url.png"
+    },
+    "6fea8280-2b62-4fdb-9a9e-972683da7a1c":{
+         "id":"6fea8280-2b62-4fdb-9a9e-972683da7a1c",
+        "name":"Oversized Shirt",
+        "price":1100,
+        "quantity":20,
+        "image":"image_url.png"
+    }
+}
